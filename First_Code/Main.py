@@ -1,3 +1,3 @@
-prinpt(4+6)
-prinpt("Hello word")
+print(4+6)
+print("Hello word")
 
