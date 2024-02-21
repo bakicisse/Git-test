@@ -1,2 +1,3 @@
-4+6
+prinpt(4+6)
+prinpt("Hello word")
 
