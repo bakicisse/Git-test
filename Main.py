@@ -23,4 +23,4 @@ n=Amro(Ba)
 
 # n=input(" what is the number of Amro Robin ? ")
 
-# n=input(" what is the number of AC grid ? ")
+print(" what is the number of AC grid ? ")
